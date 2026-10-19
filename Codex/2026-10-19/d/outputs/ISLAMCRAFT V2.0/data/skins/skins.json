@@ -1,0 +1,79 @@
+{
+  "skins": [
+    {
+      "id": "default",
+      "name": "Default",
+      "model": "player_default",
+      "texture": "player_default",
+      "animations": [
+        "idle",
+        "walk",
+        "run",
+        "jump",
+        "attack",
+        "victory",
+        "defeat"
+      ],
+      "unlock": {
+        "type": "default"
+      }
+    },
+    {
+      "id": "explorer",
+      "name": "Explorer",
+      "model": "player_explorer",
+      "texture": "player_explorer",
+      "animations": [
+        "idle",
+        "walk",
+        "run",
+        "jump",
+        "attack",
+        "victory",
+        "defeat"
+      ],
+      "unlock": {
+        "type": "level",
+        "value": 5
+      }
+    },
+    {
+      "id": "scholar",
+      "name": "Scholar",
+      "model": "player_scholar",
+      "texture": "player_scholar",
+      "animations": [
+        "idle",
+        "walk",
+        "run",
+        "jump",
+        "attack",
+        "victory",
+        "defeat"
+      ],
+      "unlock": {
+        "type": "level",
+        "value": 10
+      }
+    },
+    {
+      "id": "master",
+      "name": "Master",
+      "model": "player_master",
+      "texture": "player_master",
+      "animations": [
+        "idle",
+        "walk",
+        "run",
+        "jump",
+        "attack",
+        "victory",
+        "defeat"
+      ],
+      "unlock": {
+        "type": "achievement",
+        "value": "quiz_master"
+      }
+    }
+  ]
+}

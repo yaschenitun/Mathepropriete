@@ -1,0 +1,8 @@
+{
+  "environment": "production",
+  "debug": false,
+  "logging": {
+    "enabled": false,
+    "level": "error"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": "knowledge_scroll",
+      "name": "Knowledge Scroll",
+      "type": "consumable",
+      "rarity": "common",
+      "stackable": true,
+      "effects": {
+        "xp": 25
+      }
+    },
+    {
+      "id": "wisdom_book",
+      "name": "Wisdom Book",
+      "type": "consumable",
+      "rarity": "uncommon",
+      "stackable": true,
+      "effects": {
+        "xp": 75
+      }
+    },
+    {
+      "id": "gold_coin",
+      "name": "Gold Coin",
+      "type": "currency",
+      "rarity": "common",
+      "stackable": true,
+      "value": 1
+    },
+    {
+      "id": "health_potion",
+      "name": "Health Potion",
+      "type": "consumable",
+      "rarity": "common",
+      "stackable": true,
+      "effects": {
+        "health": 25
+      }
+    },
+    {
+      "id": "speed_potion",
+      "name": "Speed Potion",
+      "type": "consumable",
+      "rarity": "uncommon",
+      "stackable": true,
+      "effects": {
+        "bonus": "speed_boost"
+      }
+    }
+  ]
+}

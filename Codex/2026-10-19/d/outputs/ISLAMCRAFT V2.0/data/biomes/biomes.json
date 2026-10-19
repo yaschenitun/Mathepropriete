@@ -1,0 +1,19 @@
+{
+  "biomes": [
+    {
+      "id": "plains",
+      "name": "Plains",
+      "file": "plains.json"
+    },
+    {
+      "id": "forest",
+      "name": "Forest",
+      "file": "forest.json"
+    },
+    {
+      "id": "desert",
+      "name": "Desert",
+      "file": "desert.json"
+    }
+  ]
+}

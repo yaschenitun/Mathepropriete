@@ -1,0 +1,32 @@
+{
+  "bonuses": [
+    {
+      "id": "xp_boost",
+      "name": "XP Boost",
+      "type": "experience",
+      "multiplier": 1.25,
+      "duration": 60
+    },
+    {
+      "id": "speed_boost",
+      "name": "Speed Boost",
+      "type": "movement",
+      "multiplier": 1.15,
+      "duration": 30
+    },
+    {
+      "id": "defense_boost",
+      "name": "Defense Boost",
+      "type": "defense",
+      "multiplier": 1.2,
+      "duration": 45
+    },
+    {
+      "id": "luck_boost",
+      "name": "Luck Boost",
+      "type": "loot",
+      "multiplier": 1.25,
+      "duration": 60
+    }
+  ]
+}

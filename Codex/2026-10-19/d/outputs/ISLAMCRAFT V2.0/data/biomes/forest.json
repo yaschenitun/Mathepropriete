@@ -1,0 +1,40 @@
+{
+  "id": "forest",
+  "name": "Forest",
+  "terrain": {
+    "groundColor": "#3f8c3a",
+    "maxHeight": 32,
+    "roughness": 0.45
+  },
+  "environment": {
+    "temperature": 0.55,
+    "humidity": 0.8,
+    "vegetationDensity": 0.85,
+    "waterDensity": 0.12
+  },
+  "vegetation": [
+    "oak",
+    "pine",
+    "grass",
+    "flowers",
+    "mushroom"
+  ],
+  "objects": [
+    "tree",
+    "rock",
+    "bush",
+    "log"
+  ],
+  "structures": [
+    "forest_ruins",
+    "hunter_camp"
+  ],
+  "loot": {
+    "chestChance": 0.04
+  },
+  "ambient": {
+    "music": "forest",
+    "birds": true,
+    "wind": true
+  }
+}

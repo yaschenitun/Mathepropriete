@@ -1,0 +1,71 @@
+{
+  "animations": [
+    {
+      "id": "idle",
+      "name": "Idle",
+      "loop": true,
+      "speed": 1.0,
+      "states": [
+        "idle"
+      ]
+    },
+    {
+      "id": "walk",
+      "name": "Walk",
+      "loop": true,
+      "speed": 1.0,
+      "states": [
+        "walk"
+      ]
+    },
+    {
+      "id": "run",
+      "name": "Run",
+      "loop": true,
+      "speed": 1.25,
+      "states": [
+        "run"
+      ]
+    },
+    {
+      "id": "jump",
+      "name": "Jump",
+      "loop": false,
+      "speed": 1.0,
+      "states": [
+        "jump_start",
+        "jump_air",
+        "jump_land"
+      ]
+    },
+    {
+      "id": "attack",
+      "name": "Attack",
+      "loop": false,
+      "speed": 1.0,
+      "states": [
+        "attack_start",
+        "attack",
+        "attack_end"
+      ]
+    },
+    {
+      "id": "victory",
+      "name": "Victory",
+      "loop": false,
+      "speed": 1.0,
+      "states": [
+        "victory"
+      ]
+    },
+    {
+      "id": "defeat",
+      "name": "Defeat",
+      "loop": false,
+      "speed": 1.0,
+      "states": [
+        "defeat"
+      ]
+    }
+  ]
+}

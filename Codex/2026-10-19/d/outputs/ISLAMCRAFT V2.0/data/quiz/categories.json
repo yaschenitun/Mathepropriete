@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "id": "quran",
+      "name": "Quran",
+      "description": "Questions about the Quran."
+    },
+    {
+      "id": "seerah",
+      "name": "Seerah",
+      "description": "Questions about the life of Prophet Muhammad ﷺ."
+    },
+    {
+      "id": "hadith",
+      "name": "Hadith",
+      "description": "Questions about authentic Islamic traditions."
+    },
+    {
+      "id": "fiqh",
+      "name": "Fiqh",
+      "description": "Questions about Islamic jurisprudence."
+    },
+    {
+      "id": "history",
+      "name": "Islamic History",
+      "description": "Questions about Islamic history and civilizations."
+    },
+    {
+      "id": "general",
+      "name": "General Knowledge",
+      "description": "General Islamic knowledge."
+    }
+  ]
+}

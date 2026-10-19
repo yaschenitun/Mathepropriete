@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": "quran_001",
+      "category": "quran",
+      "difficulty": "easy",
+      "question": "Combien de sourates contient le Coran ?",
+      "answers": [
+        "114",
+        "100",
+        "120",
+        "99"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Le Coran contient 114 sourates.",
+      "xp": 20
+    },
+    {
+      "id": "quran_002",
+      "category": "quran",
+      "difficulty": "easy",
+      "question": "Quelle est la première sourate du Coran ?",
+      "answers": [
+        "Al-Fatiha",
+        "Al-Baqara",
+        "Al-Ikhlas",
+        "An-Nas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Al-Fatiha est la première sourate du Coran.",
+      "xp": 20
+    },
+    {
+      "id": "seerah_001",
+      "category": "seerah",
+      "difficulty": "easy",
+      "question": "Dans quelle ville le Prophète Muhammad ﷺ est-il né ?",
+      "answers": [
+        "La Mecque",
+        "Médine",
+        "Jérusalem",
+        "Damas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Le Prophète Muhammad ﷺ est né à La Mecque.",
+      "xp": 20
+    },
+    {
+      "id": "seerah_002",
+      "category": "seerah",
+      "difficulty": "medium",
+      "question": "Comment s'appelle la migration du Prophète ﷺ de La Mecque vers Médine ?",
+      "answers": [
+        "La Hijra",
+        "La Zakat",
+        "La Umra",
+        "La Bay'a"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cette migration est appelée la Hijra.",
+      "xp": 35
+    },
+    {
+      "id": "hadith_001",
+      "category": "hadith",
+      "difficulty": "easy",
+      "question": "Quel recueil est connu sous le nom de Sahih al-Bukhari ?",
+      "answers": [
+        "Un recueil de hadiths",
+        "Un livre de géographie",
+        "Un livre de poésie",
+        "Un traité de mathématiques"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sahih al-Bukhari est l'un des recueils majeurs de hadiths.",
+      "xp": 20
+    },
+    {
+      "id": "fiqh_001",
+      "category": "fiqh",
+      "difficulty": "easy",
+      "question": "Combien de prières obligatoires sont accomplies chaque jour ?",
+      "answers": [
+        "5",
+        "3",
+        "7",
+        "2"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Les cinq prières quotidiennes obligatoires sont Fajr, Dhuhr, Asr, Maghrib et Isha.",
+      "xp": 20
+    },
+    {
+      "id": "history_001",
+      "category": "history",
+      "difficulty": "medium",
+      "question": "Quelle ville est devenue le centre de la première communauté musulmane après la Hijra ?",
+      "answers": [
+        "Médine",
+        "Le Caire",
+        "Bagdad",
+        "Damas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Médine est devenue le centre de la première communauté musulmane après la Hijra.",
+      "xp": 35
+    },
+    {
+      "id": "general_001",
+      "category": "general",
+      "difficulty": "hard",
+      "question": "Quel est le nom arabe de l'aumône obligatoire ?",
+      "answers": [
+        "Zakat",
+        "Sawm",
+        "Hajj",
+        "Dhikr"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Zakat est l'aumône obligatoire faisant partie des cinq piliers de l'islam.",
+      "xp": 50
+    }
+  ]
+}

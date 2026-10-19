@@ -1,0 +1,8 @@
+{
+  "environment": "development",
+  "debug": true,
+  "logging": {
+    "enabled": true,
+    "level": "debug"
+  }
+}

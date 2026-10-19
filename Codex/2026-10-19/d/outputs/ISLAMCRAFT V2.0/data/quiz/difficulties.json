@@ -1,0 +1,25 @@
+{
+  "difficulties": [
+    {
+      "id": "easy",
+      "name": "Easy",
+      "level": 1,
+      "timeLimit": 20,
+      "xpMultiplier": 1
+    },
+    {
+      "id": "medium",
+      "name": "Medium",
+      "level": 2,
+      "timeLimit": 15,
+      "xpMultiplier": 1.5
+    },
+    {
+      "id": "hard",
+      "name": "Hard",
+      "level": 3,
+      "timeLimit": 10,
+      "xpMultiplier": 2
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "desert",
+  "name": "Desert",
+  "terrain": {
+    "groundColor": "#d9bd72",
+    "maxHeight": 32,
+    "roughness": 0.45
+  },
+  "environment": {
+    "temperature": 1.0,
+    "humidity": 0.05,
+    "vegetationDensity": 0.05,
+    "waterDensity": 0.02
+  },
+  "vegetation": [
+    "cactus",
+    "dry_grass",
+    "desert_bush"
+  ],
+  "objects": [
+    "rock",
+    "sandstone"
+  ],
+  "structures": [
+    "desert_ruins",
+    "oasis"
+  ],
+  "loot": {
+    "chestChance": 0.04
+  },
+  "ambient": {
+    "music": "desert",
+    "wind": true
+  }
+}

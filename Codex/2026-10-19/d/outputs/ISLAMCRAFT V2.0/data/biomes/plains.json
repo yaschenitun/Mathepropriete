@@ -1,0 +1,35 @@
+{
+  "id": "plains",
+  "name": "Plains",
+  "terrain": {
+    "groundColor": "#6ea84a",
+    "maxHeight": 24,
+    "roughness": 0.25
+  },
+  "environment": {
+    "temperature": 0.65,
+    "humidity": 0.45,
+    "vegetationDensity": 0.35,
+    "waterDensity": 0.08
+  },
+  "vegetation": [
+    "grass",
+    "flowers"
+  ],
+  "objects": [
+    "bush",
+    "rock",
+    "small_tree"
+  ],
+  "structures": [
+    "camp",
+    "well"
+  ],
+  "loot": {
+    "chestChance": 0.025
+  },
+  "ambient": {
+    "music": "plains",
+    "wind": true
+  }
+}
